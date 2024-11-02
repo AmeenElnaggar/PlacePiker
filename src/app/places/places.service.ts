@@ -17,7 +17,7 @@ export class PlacesService {
 
   loadAvailablePlaces() {
     return this.fetchPlaces(
-      'placepiker.railway.internal',
+      'http://localhost:3000/places',
       'Something went wrong fetching the avaliable places. please try again later.'
     );
   }
