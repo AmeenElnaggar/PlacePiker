@@ -2,7 +2,7 @@
   "vireson": 2,
   "builds": [
     {
-      "src": "/backend/app.js",
+      "src": "./backend/app.js",
       "use": "@vercel/node"
     }
   ],
