@@ -2,15 +2,12 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node app.js"
   },
   "keywords": [],
-  "engines": {
-    "node": "20.18.0"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
